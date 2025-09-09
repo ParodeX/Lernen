@@ -18,3 +18,5 @@ My Files <br />
 <li><a href="Capstone Project 1">My First Capstone Project</a>
 <li><a href="5.1. Adding CSS/index.html">5.1 Adding CSS</a>
 <li><a href="5.3 CSS Selectors/index.html">5.3 CSS Selectors</a>
+<li><a href="6.0 CSS Colors/index.html">6.0 CSS Colors</a>
+<li><a href="6.1+Font+Properties/index.html">6.1 Font Properties</a>
