@@ -1,8 +1,23 @@
-Hello there i am currently learning HTML, CSS, and much more.<br/> 
-This is just a repo to save all my progress, and maybe someday show it to someone. 
-<br />Also doing some Projects for me to learn and understand better how to code and maybe upgrade them later. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Learning Journey</title>
+        <link 
+        rel="stylesheet" 
+        href="style.css"
+        />
+</head>
+<body>
+    <h1>My Learning Journey</h1>
+        <p>Hello there i am currently learning HTML, CSS, and much more. 
+        <br />
+        This is just a repo to save all my progress, and maybe someday show it to someone.<br /> 
+        Also doing some Projects for me to learn and understand better how to code and maybe upgrade them later.</p> 
 <hr/>
-My Files:
+<h2>My Files / Websites:</h2>
 <ul>
     <li>
         <a href="2.1 Heading Element/index.html">
@@ -76,3 +91,4 @@ My Files:
         <a href="6.1+Font+Properties/index.html">
         6.1 Font Properties
         </a>
+</body>

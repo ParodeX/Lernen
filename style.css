@@ -1,0 +1,24 @@
+h1{
+    color: darkblue;
+    text-align: center;
+}
+p{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+}
+li{
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+h2{
+    text-align: center;
+    color: darkred;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
