@@ -90,4 +90,8 @@
                 <a href="6.1+Font+Properties/index.html">
                 6.1 Font Properties
                 </a>
+            <li>
+                <a href="6.3 CSS Box Model/index.html">
+                6.3 CSS Box Model
+                </a>
 </body>
