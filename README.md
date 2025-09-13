@@ -93,4 +93,8 @@
                 <li>
                     <a href="6.3 CSS Box Model/index.html">
                     6.3 CSS Box Model
-                    </a>               
+                    </a>
+                <li>
+                    <a href="6.4 Motivation Meme Project/index.html">
+                    6.4 Motivation Meme Project
+                    </a>            
