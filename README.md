@@ -101,3 +101,15 @@
                     <a href="7.0+CSS+Cascade/index.html">
                     7.0 CSS Cascade
                     </a>    
+                <li>
+                    <a href="7.1 Combining Selectors/index.html">
+                    7.1 Combining Selectors
+                    </a>    
+                <li>
+                    <a href="7.2 CSS Positioning/index.html">
+                    7.2 CSS Positioning
+                    </a>   
+                <li>
+                    <a href="7.3 CSS Flag Project/index.html">
+                    7.3 CSS Flag Project
+                    </a>  
