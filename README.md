@@ -97,3 +97,7 @@
                     <a href="6.4 Motivation Meme Project/index.html">
                     6.4 Motivation Meme Project
                     </a>            
+                <li>
+                    <a href="7.0+CSS+Cascade/index.html">
+                    7.0 CSS Cascade
+                    </a>    
