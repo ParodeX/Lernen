@@ -112,4 +112,8 @@
                 <li>
                     <a href="7.3 CSS Flag Project/index.html">
                     7.3 CSS Flag Project
-                    </a>  
+                    </a> 
+<hr/> 
+<footer>
+© Jan Maximilian Hauser
+</footer>
