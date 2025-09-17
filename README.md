@@ -117,6 +117,10 @@
                     <a href="8.0 CSS Display/index.html">
                     8.0 CSS Display
                     </a>  
+                <li>
+                    <a href="8.1 CSS Float/index.html">
+                    8.1 CSS Float
+                    </a>  
 <hr/> 
 <footer>
 © Jan Maximilian Hauser
