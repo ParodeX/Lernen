@@ -121,6 +121,14 @@
                     <a href="8.1 CSS Float/index.html">
                     8.1 CSS Float
                     </a>  
+                <li>
+                    <a href="8.2 Responsiveness/index.html">
+                    8.2 Responsiveness
+                    </a>  
+                <li>
+                    <a href="8.3 Media Query/index.html">
+                    8.3 Media Query
+                    </a>  
 <hr/> 
 <footer>
 © Jan Maximilian Hauser
