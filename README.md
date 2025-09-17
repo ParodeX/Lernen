@@ -129,6 +129,10 @@
                     <a href="8.3 Media Query/index.html">
                     8.3 Media Query
                     </a>  
+                <li>
+                    <a href="8.4 Web Design Agency Project/index.html">
+                    8.4 Web Design Agency Project
+                    </a>  
 <hr/> 
 <footer>
 © Jan Maximilian Hauser
