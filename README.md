@@ -133,6 +133,14 @@
                     <a href="8.4 Web Design Agency Project/index.html">
                     8.4 Web Design Agency Project
                     </a>  
+                <li>
+                    <a href="9.0 Display Flex/index.html">
+                    9.0 Display Flex
+                    </a>  
+                <li>
+                    <a href="9.4 Flexbox Pricing Table Project/index.html">
+                    9.4 Flexbox Pricing Table
+                    </a>  
 <hr/> 
 <footer>
 © Jan Maximilian Hauser
