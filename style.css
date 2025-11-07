@@ -41,3 +41,21 @@ footer{
     color: #774a3c;
     text-align: left;
 }
+
+.container{
+    display: grid;
+    grid-template-rows: repeat(5,1fr);
+    grid-template-columns: repeat(5,1fr);
+}
+.main-container{
+    background-color: #3ee77f;
+}
+.html-container{
+    background-color: #774a3c;
+}
+.css-container{
+    background-color: aqua;
+}
+.flexbox-container{
+    background-color: blanchedalmond;
+}
