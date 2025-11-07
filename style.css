@@ -44,19 +44,23 @@ footer{
 
 .container{
     display: grid;
-    grid-template-rows: repeat(5,1fr);
+    grid-template-rows: 0.5fr 1fr 1fr;
     grid-template-columns: repeat(5,1fr);
 }
 .main-container{
     background-color: #3ee77f;
-    grid-column: 1 / 6;
+    grid-column: span 6;
+    grid-row: 1;
 }
 .my-files{
     background-color: blue;
-    grid-column: 1 / 6;
+    grid-column: span 6;
+    grid-row: 2;
 }
 .html-container{
     background-color: #774a3c;
+    grid-column: 1.5 / 5.5;
+    grid-row: 2 / 2;
 }
 .css-container{
     background-color: aqua;

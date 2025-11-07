@@ -19,8 +19,7 @@
             </div>
                <div class="my-files"> <h2>My Files / Websites:</h2>
                 </div>    
-                    <ul>
-                        <div class="html-container">
+                    <div class="html-container">
                             <div>
                                 <li>
                                     <a href="2.1 Heading Element/index.html">
