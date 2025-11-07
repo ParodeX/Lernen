@@ -15,11 +15,13 @@
                 <br />
                 This is just a repo to save all my progress, and maybe someday show it to someone.<br /> 
                 Also doing some Projects for me to learn and understand better how to code and maybe upgrade them later.</p> 
-                <hr/>
+
             </div>
-               <div class="my-files"> <h2>My Files / Websites:</h2>
+               <div class="my-files"> 
+                    <h2>My Files / Websites:</h2>
                 </div>    
                     <div class="html-container">
+                        <h1>HTML</h1>
                             <div>
                                 <li>
                                     <a href="2.1 Heading Element/index.html">
@@ -106,6 +108,7 @@
                             </div>
                     </div>
                     <div class="css-container">
+                        <h1>CSS</h1>
                             <div>
                                 <li>
                                     <a href="5.1. Adding CSS/index.html">
@@ -198,6 +201,7 @@
                             </div>
                     </div>
                     <div class="flexbox-container">
+                        <h1>Flexbox</h1>
                             <div>
                                 <li>
                                     <a href="9.0 Display Flex/index.html">
@@ -212,7 +216,6 @@
                             </div>
                     </div>  
         </div>
-<hr/> 
 <footer>
 © Jan Maximilian Hauser
 </footer>
