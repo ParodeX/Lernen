@@ -49,6 +49,7 @@ footer{
 }
 .main-container{
     background-color: #3ee77f;
+    grid-column: 1 / 5;
 }
 .html-container{
     background-color: #774a3c;
