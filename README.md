@@ -80,7 +80,6 @@
                                     My First Capstone Project
                                     </a>
                                 </li>
-                    </div>
                     <div class="css-container">
                         <h1>CSS</h1>
                                 <li>
@@ -146,7 +145,6 @@
                                     8.4 Web Design Agency Project
                                     </a>
                                 </li>
-                    </div>
                     <div class="flexbox-container">
                         <h1>Flexbox / Grid</h1>
                                 <li>
@@ -174,8 +172,6 @@
                                         10.3 Mondrian Project
                                     </a>
                                 </li>
-                    </div>  
-        </div>
 <footer>
 © Jan Maximilian Hauser
 </footer>
