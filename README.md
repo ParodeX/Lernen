@@ -79,6 +79,7 @@
                                     <a href="Capstone Project 1">
                                     My First Capstone Project
                                     </a>
+                                </li>
                     </div>
                     <div class="css-container">
                         <h1>CSS</h1>
@@ -144,6 +145,7 @@
                                     <a href="8.4 Web Design Agency Project/index.html">
                                     8.4 Web Design Agency Project
                                     </a>
+                                </li>
                     </div>
                     <div class="flexbox-container">
                         <h1>Flexbox / Grid</h1>
@@ -171,6 +173,7 @@
                                     <a href="10.3 Mondrian Project/index.html">
                                         10.3 Mondrian Project
                                     </a>
+                                </li>
                     </div>  
         </div>
 <footer>
