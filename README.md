@@ -9,14 +9,16 @@
         />
     </head>
     <body>
-        <div class="container">    <div class="main-container"><h1>My Learning Journey</h1>
+        <div class="container">    
+            <div class="main-container"><h1>My Learning Journey</h1>
                 <p>Hello there i am currently learning HTML, CSS, Flexbox, Grid and much more. 
                 <br />
                 This is just a repo to save all my progress, and maybe someday show it to someone.<br /> 
                 Also doing some Projects for me to learn and understand better how to code and maybe upgrade them later.</p> 
                 <hr/>
             </div>
-                <h2>My Files / Websites:</h2>
+               <div class="my-files"> <h2>My Files / Websites:</h2>
+                </div>    
                     <ul>
                         <div class="html-container">
                             <div>
@@ -210,7 +212,7 @@
                                     </a>
                             </div>
                     </div>  
-            </div>
+        </div>
 <hr/> 
 <footer>
 © Jan Maximilian Hauser
