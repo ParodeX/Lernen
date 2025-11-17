@@ -43,7 +43,7 @@ footer{
     display: grid;
     grid-template-columns: repeat(6,1fr);
     grid-template-rows: 0.1fr 0.1fr 1fr;
-    height: 97.2vh;
+    height: 95vh;
 }
 .main{
     background-color: #3ee77f;
