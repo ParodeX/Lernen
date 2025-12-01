@@ -1,1 +1,1 @@
-<a href="bootstrap.html">Click Me</a>
+<a href="https://parodex.github.io/Lernen/bootstrap">Go to my Page</a>
