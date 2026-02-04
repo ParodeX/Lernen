@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-style: italic;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+.asd{
+    transform: rotate(90deg);
+    margin: 0% auto;
+    margin-top: 5vh;
+    width: 95vh;
+}
+body{
+    background-color: lightblue;
+    
+}
