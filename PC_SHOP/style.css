@@ -81,8 +81,9 @@ button{
 }
 .products{
     display: grid;
-    grid-template-areas: "a b c d";
-    grid-template-rows: 4;
+    grid-template-areas: "a b c";
+    grid-template-rows: repeat(3,1fr);
+    gap: 20px;
     align-items: center;
     justify-content: space-between;
     width: 80vw;
@@ -91,12 +92,21 @@ button{
 }
 .products p{
     font-weight: lighter;
+    font-size: 1.2rem;
+}
+p.price{
     font-size: 1.4rem;
+    font-weight: bold;
 }
 h3{
-    font-size: x-large;
+    font-size: 1.9rem;
 }
-.card{}
+.card ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
 .features{}
 .footer{}
 @media screen {
